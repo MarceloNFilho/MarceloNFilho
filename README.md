@@ -4,7 +4,7 @@
  
 ## I'm Marcelo!
  
-Full-Stack focused in NodeJS, ReactJS and React Native | Computer Scientist 💻
+Front-End developer | Computer Scientist 💻
 
 Passionate about games and technology. 🎮🤖
 
