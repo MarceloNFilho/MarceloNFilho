@@ -4,7 +4,7 @@
  
 ## I'm Marcelo!
  
-Front-End developer | Computer Scientist 💻
+Front-end developer | Computer Scientist 💻
 
 Passionate about games and technology. 🎮🤖
 
